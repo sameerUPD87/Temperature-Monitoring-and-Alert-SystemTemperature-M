@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to address the issues related to poor handling and storage facilities in blood banks, pharmaceutical industries, and server rooms in India. It provides a real-time temperature monitoring and alert system using the Bolt IoT platform, LM35 temperature sensor, and third-party services like Twilio and Mai
+This project aims to address the issues related to poor handling and storage facilities in blood banks, pharmaceutical industries, and server rooms in India. It provides a real-time temperature monitoring and alert system using the Bolt IoT platform, LM35 temperature sensor, and third-party services like Twilio and Mailgun.
 
 ## Motivation
 
