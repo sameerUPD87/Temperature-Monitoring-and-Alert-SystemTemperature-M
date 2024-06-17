@@ -19,7 +19,7 @@ Traditional data loggers and chart recorders do not offer real-time visibility a
 - 3 male-to-male wires
 - Breadboard
 
-![Hardware Components](images/hardware_components.png)
+![Hardware Components](images/hardware_components.jpg)
 
 ## Sensor Details
 
@@ -27,7 +27,7 @@ Traditional data loggers and chart recorders do not offer real-time visibility a
 - A linear temperature sensor whose output voltage changes linearly with the change in temperature.
 - It can measure temperature from -55°C to 155°C.
 
-![LM35 Sensor](images/LM35_sensor.png)
+![LM35 Sensor](images/LM35_sensor.jpg)
 
 ## Software Components
 
